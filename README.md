@@ -29,3 +29,17 @@
 <div id="footer" align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=103154&height=300&section=footer&text=Ready%20to%20cooperation&fontColor=fff&fontSize=30"/>
 </div>
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>&nbsp; You can contact me at:</li>
+<li>E-mail: <a href="mailto:ilyashvedov5@gmail.com">ilyashvedov5@gmail.com</a></li>
+<li>Telegram: @kondr4589</li>
+ <h2 dir="auto"><a id="user-content-reasons-for-working-with-me" class="anchor" aria-hidden="true" href="#reasons-for-working-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Reasons for working with me</h2>
+ <ul dir="auto">
+<li>I do quality work. I use world programmers wide best practices. I use ES Lint for supporting quality of my code.</li>
+<li>I do my work on time. It`s important to me.</li>
+<li>I've been doing coding most of my life. It`s my hobby. I like to learn and use something new</li>
+</ul>
+ <h3 dir="auto"></a>Badges</h3>
+ <p dir="auto"><b>My GitHub stats</b></p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshved-web&langs_count=8">
+</ul>
