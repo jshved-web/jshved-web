@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=103154&height=300&section=header&text=Frotend%20Developer&desc=Ilya%20Shvedov&fontColor=fff&fontSize=60&descAlignY=20" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=103154&height=300&section=header&text=Frontend%20Developer&desc=Ilya%20Shvedov&fontColor=fff&fontSize=60&descAlignY=20" />
 </div>
 <h1 align="center">My technology stack</h1>
 <div align="center">
