@@ -41,5 +41,5 @@
 </ul>
  <h3 dir="auto"></a>Badges</h3>
  <p dir="auto"><b>My GitHub stats</b></p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshved-web&langs_count=8">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jshved-web&langs_count=8">
 </ul>
